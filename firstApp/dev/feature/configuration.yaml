@@ -6,4 +6,4 @@ databasePool:
   maxLifetimeMs: 1800000
 
 search:
-  defaultQuery: hey Norbert!
+  defaultQuery: hey Lucas!
